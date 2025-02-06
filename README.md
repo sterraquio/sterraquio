@@ -1,5 +1,6 @@
 ## Hi, my name is Andrick Buitrago.👋
-### I'm a backend software developer 😄
+I'm a backend software developer.😄
+I'm currently learning Django and working 👨‍💻 on a project about an inventory system for a bakery 🍞.
 
 <!--
 **sterraquio/sterraquio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
