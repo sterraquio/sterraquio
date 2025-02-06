@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, my name is Andrick Buitrago.👋
+### I'm a backend software developer 😄
 
 <!--
 **sterraquio/sterraquio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
