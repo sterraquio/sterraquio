@@ -1,4 +1,4 @@
-## Hi, my name is Andrick Buitrago.👋
+## Hi, I'm Andrick Buitrago.👋
 I'm a backend software developer.😄
 I'm currently learning Django and working 👨‍💻 on a project about an inventory system for a bakery 🍞.
 
